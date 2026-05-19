@@ -1,8 +1,9 @@
-
-
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
+###### NAME : Suryamalar v
+###### REGISTER NUMBER : 212223230224
 
-# Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
+# Aim:
+To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
 
@@ -35,4 +36,28 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 # OUTPUT
 
-# RESULT: The prompt for the above said problem executed successfully
+<img width="1032" height="510" alt="image" src="https://github.com/user-attachments/assets/47532be9-6878-40c8-a28a-d9a8f33afce0" />
+
+
+# Results Table :
+
+<img width="1172" height="533" alt="image" src="https://github.com/user-attachments/assets/60b357bb-fd26-42d2-9860-3ce8d75e3fd6" />
+
+# Analysis
+Impact of Prompt Clarity:
+Basic prompts consistently produce higher-quality, more accurate, and deeper responses.
+Exceptions:
+In some creative tasks, naïve prompts can generate equally engaging responses but may lack structure.
+Insight:
+The more context and structure provided, the better AI can tailor its responses to the user’s expectations.
+
+# Summary of Findings
+
+Clarity matters: Structured prompts improve response relevance and depth.
+
+Scenario-dependent: For creative tasks, unstructured prompts can sometimes yield surprising creativity.
+
+Recommendation: Use specific instructions, context, and expected output format to get optimal results from AI.
+
+# RESULT: 
+The prompt for the above said problem executed successfully
